@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.33",
+    "@types/react-dom": "18.0.11",
+    "@web3uikit/core": "^0.4.0",
+    "@web3uikit/icons": "^0.4.1",
+    "add": "^2.0.6",
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.2.4",
+    "moralis-v1": "^1.12.0",
+    "next": "13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-moralis": "^1.4.2",
+    "typescript": "5.0.3",
+    "web3uikit": "^1.0.4",
+    "yarn": "^1.22.19"
+  }
+}
